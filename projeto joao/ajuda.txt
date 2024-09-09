@@ -1,0 +1,18 @@
+Explicações:
+Ajuste dinâmico das imagens do carrossel: Uma função ajusta a altura das imagens do carrossel com base no tamanho da tela, tornando-as menores em dispositivos móveis.
+
+Esconder a barra de navegação: A navbar é escondida ao rolar a página para baixo, mas reaparece ao rolar para cima, melhorando a navegação em dispositivos móveis.
+
+Atualização dinâmica do formulário de tele-busca: O campo de tele-busca será mostrado ou ocultado com base no serviço selecionado, adicionando uma camada de interatividade ao formulário de agendamento.
+ ---------------------------------------------------------------------------------
+
+Explicação do Código:
+* Cabeçalho: Nesta primeira etapa, inclui o nome da PetShop com ícones responsivos que ajudam na navegação da página.
+* Carrossel de Imagens: Escolhi imagens ilustrativgas que sejam animadas e se encaixem na temática da PetShop.
+* Serviços: Uma seção com os serviços oferecidos, incluindo o preço.
+* Produtos: Produtos oferecidos para venda, com suas respectivas imagens, nomes e valores.
+* Formulário de Cadastro: Obtém as informações do cliente (nome, endereço, telefone, e-mail) e do pet (nome, tipo, raça, temperamento). 
+* Rodapé: Contém informações legais e links para termos de uso e política de privacidade.
+
+O código utiliza criado utiliza framework Bootstrap que facilita a criação de um layout responsivo e estilizado.
+Para a criação deste código, optei por usar métodos de CSS inline.
